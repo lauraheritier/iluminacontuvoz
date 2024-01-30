@@ -244,13 +244,14 @@ footer .brand {
 footer .col-4 {
   display: flex;
   justify-content: flex-end;
+  align-items: center;
 }
 footer .col-4 span {
     font-family: Montserrat-Bold, sans-serif;
     font-size: 12px;
 }
 .footer img {
-    max-width: 50px;
+    width: 120px;
 }
 .data {
     margin: 0;
