@@ -239,8 +239,11 @@ footer .brand {
     width: fit-content;
     width: -webkit-fit-content;
     width: -moz-fit-content;
-    margin-right: 0;
-    margin-left: auto;    
+    margin-left: 8px;
+}
+footer .col-4 {
+  display: flex;
+  justify-content: flex-end;
 }
 footer .col-4 span {
     font-family: Montserrat-Bold, sans-serif;
