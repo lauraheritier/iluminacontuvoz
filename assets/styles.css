@@ -292,4 +292,10 @@ footer .col-4 span {
     .cta {
         padding-top: 40px;
     }
+    .data .middle {
+        border-top: 1px solid #FFFFFF;
+        border-bottom: 1px solid #FFFFFF;
+        border-left: 0;
+        border-right: 0;
+    }
 }
