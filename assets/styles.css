@@ -226,13 +226,13 @@ footer a:hover, footer a:focus {
     color: #323232;
 }
 footer .contact-title {
-    font-size: 20px;
     font-family: Montserrat-SemiBold, sans-serif;
     margin: 0;
 }
-.footer .col-8 a, .footer .col-4 span {
+.footer .col-8 a {
     display: inline-block;
     width: 100%;
+  font-size: 12px;
 }
 footer .brand {
     text-align: center;
@@ -245,10 +245,6 @@ footer .col-4 {
   display: flex;
   justify-content: flex-end;
   align-items: center;
-}
-footer .col-4 span {
-    font-family: Montserrat-Bold, sans-serif;
-    font-size: 12px;
 }
 .footer img {
     width: 120px;
